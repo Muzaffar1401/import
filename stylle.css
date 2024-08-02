@@ -1,0 +1,47 @@
+h1{
+    border: 2px solid red;
+    background-color: rgb(201, 156, 243);
+    text-align: center;
+    border-radius: 20px;
+}
+.q{
+    color: red;
+}
+.y{
+    color: green;
+}
+.rasm{
+    background-color: yellow;
+    text-align: center;
+}
+.s{
+    background-color: yellow;
+    text-align: center;
+}
+.g{
+    color: green;
+}
+.j{
+    color: green;
+}
+.t{
+    background-color: yellow;
+    text-align: center;
+}
+.yashil{
+    background-color: green;
+}
+.qora{
+    background-color: black;
+    color: aliceblue;
+}
+.qizil{
+    background-color: red;
+}
+.kok{
+    background-color: blue;
+}
+table{
+    border-collapse: collapse;
+    width: 500px;
+}
